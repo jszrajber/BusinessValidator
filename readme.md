@@ -2,7 +2,7 @@
 
 [![Backend Tests](https://github.com/NoobCoder12/BusinessValidator/actions/workflows/tests.yml/badge.svg)](https://github.com/NoobCoder12/BusinessValidator/actions/workflows/tests.yml)
 
-> 🚀 **Live demo:** https://bu-75b9bcd99b004b569762b8ee62500cd3.ecs.eu-north-1.on.aws/docs
+> 🚀 **Live demo:** https://www.businessvalidator.pl/docs
 
 A REST API that lets users verify whether a business is an active VAT taxpayer using its NIP (tax ID). Built with FastAPI and integrated with the official VIES SOAP service.
 
